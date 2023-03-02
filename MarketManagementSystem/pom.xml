@@ -15,6 +15,7 @@
 	<name>MarketManagementSystem</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
+		<jakarta-servlet.version>5.0.0</jakarta-servlet.version>
 		<java.version>17</java.version>
 	</properties>
 	<dependencies>
