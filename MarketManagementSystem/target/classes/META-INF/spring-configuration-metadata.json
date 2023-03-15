@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "market.email",
+      "type": "com.market.api.core.EmailProperties",
+      "sourceType": "com.market.api.core.EmailProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "market.email.sender",
+      "type": "java.lang.String",
+      "sourceType": "com.market.api.core.EmailProperties"
+    }
+  ],
+  "hints": []
+}

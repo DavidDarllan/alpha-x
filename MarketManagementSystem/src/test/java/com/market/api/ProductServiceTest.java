@@ -8,7 +8,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
-import com.market.api.model.Product;
+import com.market.api.model.core.Product;
 import com.market.api.service.ProductService;
 
 @RunWith(SpringRunner.class)
